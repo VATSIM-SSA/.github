@@ -1,3 +1,5 @@
+![VATSSA](./ssa_screenshot_comp_20240901_1484901.png)
+
 ## Welcome to VATSSA - VATSIM Sub-Sahara Africa Division on Github. 👋
 
 VATSSA is responsible for the airspace of 40 countries and territories in Africa, in its Sub Saharan region. We cover the airspace from Cape Verde in the West to Mauritius in the East all the way to South Africa... well, we also cover some bits in Antartica.
