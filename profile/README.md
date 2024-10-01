@@ -1,5 +1,5 @@
-![VATSSA](./ssa_screenshot_comp_20240901_1484901.png)
-*Image by Lucas Hellewell (1484901)*
+![VATSSA](./ssa_screenshot_comp_20241001_1806803.png)
+*Image by Daniel Nementzik (1806803)*
 
 ## Welcome to VATSSA - VATSIM Sub-Sahara Africa Division on Github. 👋
 
