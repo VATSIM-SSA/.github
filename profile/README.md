@@ -1,5 +1,5 @@
-![VATSSA](https://vatssa.com/hq/images/ssa_screenshot_comp_20250501_1708206.png)
-_Image by Nafan (1708206)_
+![VATSSA](https://vatssa.com/hq/images/ssa_screenshot_comp_20251001_1798953.png)
+_Image by Chris Vorster (1798953)_
 
 ## Welcome to VATSSA - VATSIM Sub-Sahara Africa Division on Github. 👋
 
