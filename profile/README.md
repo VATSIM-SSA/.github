@@ -17,11 +17,6 @@ VATSSA is responsible for the airspace of 40 countries and territories across Su
 
 We use GitHub to develop and manage our 26 sector files, and where possible our web platforms (site, eAIP, training platform). We are a small team, but we do our best for our community. More at https://vatssa.com, or join our Discord via VATSIM's Community Hub.
 
-<p align="center">
-  <img alt="Featured community screenshot" src="https://raw.githubusercontent.com/VATSIM-SSA/.github/main/profile/ssa_screenshot_comp_20250501_1708206.png" width="640"><br>
-  <sub><i>Featured community screenshot (1708206)</i></sub>
-</p>
-
 ---
 
 ## Operations: Sectors
