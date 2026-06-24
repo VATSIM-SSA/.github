@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://palette.vatssa.com/logo_horizontal_white.svg">
-    <img alt="VATSSA" src="https://palette.vatssa.com/logo_horizontal_dark.svg" width="420">
+    <img alt="VATSSA" src="https://palette.vatssa.com/logo_horizontal_dark.svg" width="380">
   </picture>
 </p>
 
@@ -11,21 +11,22 @@
   <img alt="Division" src="https://img.shields.io/badge/Division-Sub--Sahara%20Africa-07262C?style=for-the-badge">
 </p>
 
-## Welcome to VATSSA - VATSIM Sub-Sahara Africa Division on Github. 👋
+## Welcome to VATSSA, the VATSIM Sub-Sahara Africa Division, on GitHub. 👋
 
-VATSSA is responsible for the airspace of 40 countries and territories in Africa, in its Sub Saharan region. We cover the airspace from Cape Verde in the West to Mauritius in the East all the way to South Africa... well, we also cover some bits in Antartica.
+VATSSA is responsible for the airspace of 40 countries and territories across Sub-Saharan Africa, from Cape Verde in the west to Mauritius in the east, all the way down to South Africa (and, yes, a few bits of Antarctica).
 
-We use Github not only to help us develop and manage our 26 Sector Files but also to develop, where possible, our web platforms (Site, eAIP, Training Platform).
+We use GitHub to develop and manage our 26 sector files, and where possible our web platforms (site, eAIP, training platform). We are a small team, but we do our best for our community. More at https://vatssa.com, or join our Discord via VATSIM's Community Hub.
 
-We have a limited number of internal resources, but we try to do our best for our community where we can.
-
-For more information, visit us at https://vatssa.com or join our Discord via VATSIM's Community Hub.
+<p align="center">
+  <img alt="Featured community screenshot" src="./profile/featured.png" width="640"><br>
+  <sub><i>Featured community screenshot — by Edward (1757680)</i></sub>
+</p>
 
 ---
 
 ## Operations: Sectors
 
-[![Sector File Overview](https://img.shields.io/badge/%E2%86%92%20Sector%20File%20Overview-0197B0?style=for-the-badge)](https://github.com/VATSIM-SSA/sectorfile-overview)
+[![→ Sector File Overview](https://img.shields.io/badge/%E2%86%92%20Sector%20File%20Overview-0197B0?style=for-the-badge)](https://github.com/VATSIM-SSA/sectorfile-overview)
 
 | Area | Sector files |
 | :--- | :--- |
@@ -38,11 +39,11 @@ For more information, visit us at https://vatssa.com or join our Discord via VAT
 
 ## Operations: Data Sources
 
-[![vatSpy](https://img.shields.io/badge/vatSpy-07262C?style=flat-square)](https://github.com/VATSIM-SSA/SSA-vatSpy-Data-Project) [![SimAware](https://img.shields.io/badge/SimAware-07262C?style=flat-square)](https://github.com/VATSIM-SSA/SSA-SimAware-Tracon-Project) [![VATGlasses](https://img.shields.io/badge/VATGlasses-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-vatglasses-data) [![vATIS NavData](https://img.shields.io/badge/vATIS%20NavData-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-vatis-navdata) [![IAssure Weather](https://img.shields.io/badge/IAssure%20Weather-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-iassure-wx) [![CDM](https://img.shields.io/badge/CDM-07262C?style=flat-square)](https://github.com/VATSIM-SSA/SSA-CDM)
+[![vatSpy](https://img.shields.io/badge/vatSpy-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/SSA-vatSpy-Data-Project) [![SimAware](https://img.shields.io/badge/SimAware-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/SSA-SimAware-Tracon-Project) [![VATGlasses](https://img.shields.io/badge/VATGlasses-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/ssa-vatglasses-data) [![vATIS NavData](https://img.shields.io/badge/vATIS%20NavData-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/ssa-vatis-navdata) [![IAssure Weather](https://img.shields.io/badge/IAssure%20Weather-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/ssa-iassure-wx) [![CDM](https://img.shields.io/badge/CDM-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/SSA-CDM)
 
 ## Operations: Docs
 
-[![eAIP](https://img.shields.io/badge/eAIP-07262C?style=flat-square)](https://github.com/VATSIM-SSA/SSA-eAIP)
+[![eAIP](https://img.shields.io/badge/eAIP-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/SSA-eAIP)
 
 ## Web: Forks
 
