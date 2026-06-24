@@ -1,4 +1,5 @@
-![VATSSA](https://vatssa.com/hq/images/ssa_screenshot_comp_20251201_1757680.png)
+![VATSSA](./profile/banner.png)
+
 _Image by Edward (1757680)_
 
 ## Welcome to VATSSA - VATSIM Sub-Sahara Africa Division on Github. 👋
@@ -11,38 +12,52 @@ We have a limited number of internal resources, but we try to do our best for ou
 
 For more information, visit us at https://vatssa.com or join our Discord via VATSIM's Community Hub.
 
-# VATSSA — VATSIM Sub-Sahara Africa
+---
 
-Welcome to the VATSSA GitHub organisation. This board is the quickest way to reach any repository: grouped, fixed order, no hunting.
+Quick links to every repository. Grouped, fixed order, no hunting.
 
-## Platforms & Services
+## Operations: Sectors
 
-[![Homepage](...)](.../ssa-homepage) [![eAIP / Docs](...)](.../SSA-eAIP) [![Control Center](...)](.../ssa-controlcenter) [![Control Center Custom](...)](.../ssa-controlcenter-custom) [![Policy](...)](.../SSA-Policy)
+Start here: [![Overview](https://img.shields.io/badge/Sector%20File%20Overview-0197B0?style=for-the-badge)](https://github.com/VATSIM-SSA/sectorfile-overview)
 
-## Sector Files
+**Southern Africa**  
+[![FASA](https://img.shields.io/badge/FASA-South%20Africa-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fasa) [![FBGR](https://img.shields.io/badge/FBGR-Gaborone-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fbgr) [![FQBE](https://img.shields.io/badge/FQBE-Beira-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fqbe) [![FVHF](https://img.shields.io/badge/FVHF-Harare-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fvhf) [![FYWH](https://img.shields.io/badge/FYWH-Windhoek-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fywf)
 
-Start here: [![Sector File Overview](teal button)](.../sectorfile-overview)
+**Eastern Africa**  
+[![HKNA](https://img.shields.io/badge/HKNA-Nairobi-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-hkna) [![HTDC](https://img.shields.io/badge/HTDC-Dar%20es%20Salaam-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-htdc) [![HUEC](https://img.shields.io/badge/HUEC-Entebbe-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-huec) [![FWLL](https://img.shields.io/badge/FWLL-Lilongwe-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fwll)
 
-### Southern Africa
-[FASA·South Africa] [FBGR·Gaborone] [FQBE·Beira] [FVHF·Harare] [FYWH·Windhoek]
+**Western Africa**  
+[![DGAC](https://img.shields.io/badge/DGAC-Accra-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-dgac) [![DNKK](https://img.shields.io/badge/DNKK-Kano-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-dnkk) [![GOOO](https://img.shields.io/badge/GOOO-Dakar-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-gooo) [![GVSC](https://img.shields.io/badge/GVSC-Sal-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-gvsc)
 
-### Eastern Africa
-[HKNA·Nairobi] [HTDC·Dar es Salaam] [HUEC·Entebbe] [FWLL·Lilongwe]
+**Central Africa**  
+[![FNAN](https://img.shields.io/badge/FNAN-Luanda-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fnan) [![FCCC](https://img.shields.io/badge/FCCC-Brazzaville-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fccc) [![FLFI](https://img.shields.io/badge/FLFI-Lusaka-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-flfi) [![FZZA](https://img.shields.io/badge/FZZA-Kinshasa-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fzza)
 
-### Western Africa
-[DGAC·Accra] [DNKK·Kano] [GOOO·Dakar] [GVSC·Sal]
+**Vanilla**  
+[![FIMM](https://img.shields.io/badge/FIMM-Mauritius-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fimm) [![FMMM](https://img.shields.io/badge/FMMM-Antananarivo-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fmmm) [![FSSS](https://img.shields.io/badge/FSSS-Seychelles-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fsss)
 
-### Central Africa
-[FNAN·Luanda] [FCCC·Brazzaville] [FLFI·Lusaka] [FZZA·Kinshasa]
+**Oceanic & FSS**  
+[![FAJO](https://img.shields.io/badge/FAJO-Jhb%20Oceanic-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-fajo) [![GOOOO](https://img.shields.io/badge/GOOOO-Dakar%20Oceanic-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-goooo) [![AFRC](https://img.shields.io/badge/AFRC-Africa%20Central%20FSS-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-afrc) [![AFRS](https://img.shields.io/badge/AFRS-Africa%20South%20FSS-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-afrs) [![AFRW](https://img.shields.io/badge/AFRW-Africa%20West%20FSS-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/sectorfile-afrw)
 
-### Vanilla
-[FIMM·Mauritius] [FMMM·Antananarivo] [FSSS·Seychelles]
+## Operations: External Data Sources
 
-### Oceanic & FSS
-[FAJO·Jhb Oceanic] [GOOOO·Dakar Oceanic] [AFRC·…] [AFRS·…] [AFRW·…]
+[![vatSpy](https://img.shields.io/badge/vatSpy-2E7D32?style=for-the-badge)](https://github.com/VATSIM-SSA/SSA-vatSpy-Data-Project) [![SimAware](https://img.shields.io/badge/SimAware-2E7D32?style=for-the-badge)](https://github.com/VATSIM-SSA/SSA-SimAware-Tracon-Project) [![VATGlasses](https://img.shields.io/badge/VATGlasses-2E7D32?style=for-the-badge)](https://github.com/VATSIM-SSA/ssa-vatglasses-data) [![vATIS NavData](https://img.shields.io/badge/vATIS%20NavData-2E7D32?style=for-the-badge)](https://github.com/VATSIM-SSA/ssa-vatis-navdata) [![IAssure Weather](https://img.shields.io/badge/IAssure%20Weather-2E7D32?style=for-the-badge)](https://github.com/VATSIM-SSA/ssa-iassure-wx) [![CDM](https://img.shields.io/badge/CDM-2E7D32?style=for-the-badge)](https://github.com/VATSIM-SSA/SSA-CDM)
 
-## Data Feeds
-[vatSpy] [SimAware] [VATGlasses] [vATIS NavData] [IAssure Weather]
+## Operations: Docs / eAIP
 
-## Tooling & Assets
-[CDM Config] [Brand Palette]
+[![eAIP / Docs](https://img.shields.io/badge/eAIP%20/%20Docs-0197B0?style=for-the-badge)](https://github.com/VATSIM-SSA/SSA-eAIP)
+
+## Web: Forks
+
+Platforms we run from upstream projects.
+
+[![Control Center](https://img.shields.io/badge/Control%20Center-07262C?style=for-the-badge)](https://github.com/VATSIM-SSA/ssa-controlcenter) [![Control Center Custom](https://img.shields.io/badge/Control%20Center%20Custom-07262C?style=for-the-badge)](https://github.com/VATSIM-SSA/ssa-controlcenter-custom)
+
+## Web: Custom
+
+Platforms we build ourselves.
+
+[![Homepage](https://img.shields.io/badge/Homepage-555555?style=for-the-badge)](https://github.com/VATSIM-SSA/ssa-homepage) [![Policy](https://img.shields.io/badge/Policy-555555?style=for-the-badge)](https://github.com/VATSIM-SSA/SSA-Policy) [![Brand Palette](https://img.shields.io/badge/Brand%20Palette-555555?style=for-the-badge)](https://github.com/VATSIM-SSA/ssa-palette)
+
+---
+
+Browse everything on the [organisation page](https://github.com/orgs/VATSIM-SSA/repositories), or filter by topic: [`sectorfile`](https://github.com/orgs/VATSIM-SSA/repositories?q=topic%3Asectorfile) · [`data`](https://github.com/orgs/VATSIM-SSA/repositories?q=topic%3Adata) · [`web`](https://github.com/orgs/VATSIM-SSA/repositories?q=topic%3Aweb)
