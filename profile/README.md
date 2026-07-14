@@ -38,7 +38,7 @@ We use GitHub to develop and manage our 26 sector files, and where possible our 
 
 ## Operations: Docs
 
-[![eAIP](https://img.shields.io/badge/eAIP-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/SSA-eAIP)
+[![Docs](https://img.shields.io/badge/Docs-0197B0?style=flat-square)](https://github.com/VATSIM-SSA/SSA-Docs)
 
 ## Web: Forks
 
