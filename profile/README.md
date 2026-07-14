@@ -50,7 +50,7 @@ Platforms we run from upstream projects, with small local modifications.
 
 Platforms we build ourselves.
 
-[![Homepage](https://img.shields.io/badge/Homepage-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-homepage) [![Policy](https://img.shields.io/badge/Policy-07262C?style=flat-square)](https://github.com/VATSIM-SSA/SSA-Policy) [![Brand Palette](https://img.shields.io/badge/Brand%20Palette-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-palette)
+[![Homepage](https://img.shields.io/badge/Homepage-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-homepage) [![Brand Palette](https://img.shields.io/badge/Brand%20Palette-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-palette)
 
 ---
 
