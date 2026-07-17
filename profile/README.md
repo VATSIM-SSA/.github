@@ -44,7 +44,7 @@ We use GitHub to develop and manage our 26 sector files, and where possible our 
 
 Platforms we run from upstream projects, with small local modifications.
 
-[![Control Center](https://img.shields.io/badge/Control%20Center-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-controlcenter) [![Control Center Custom](https://img.shields.io/badge/Control%20Center%20Custom-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-controlcenter-custom) [![Handover](https://img.shields.io/badge/Handover-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-handover)
+[![Control Center](https://img.shields.io/badge/Control%20Center-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-controlcenter) [![Control Center Custom](https://img.shields.io/badge/Control%20Center%20Custom-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-controlcenter-custom) [![Handover](https://img.shields.io/badge/Handover-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-handover) [![Pilot Bookings](https://img.shields.io/badge/Pilot%20Bookings-07262C?style=flat-square)](https://github.com/VATSIM-SSA/ssa-bookings)
 
 ## Web: Custom
 
